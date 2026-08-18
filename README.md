@@ -54,7 +54,6 @@ The one-page dashboard includes:
 ## Key Insights:
 
 - Overtime staff leave **3.4x more often** (33.8% vs 9.8%)
-- Poor work-life balance drives the **highest single-factor attrition** (25.7%)
 - Low job satisfaction nearly **doubles** attrition (23.5% vs 12.0%)
 - **New hires (0–2 years)** are the highest-risk group at 20.3%, dropping to 10.3% after 10+ years
 - **R&D** has the highest attrition rate (17.1%) and the most total exits
