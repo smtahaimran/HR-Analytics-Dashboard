@@ -11,6 +11,7 @@ A one-page Power BI dashboard analyzing employee attrition drivers, built to hel
 ## Problem Statement:
 
 I have to analyzes an HR dataset to understand the key factors driving employee attrition (16.4% annually) and to identify which workforce segments and conditions are most associated with turnover. The goal is to uncover actionable insights and recommend interventions that could help reduce attrition.
+
 ---
 
 
